@@ -1,0 +1,13 @@
+# backend
+/backend/.env
+/backend/data/
+/backend/deeplake/
+/backend/qdrant_storage/
+/backend/Pipfile
+/backend/detectron2/
+/backend/__pycache__/
+/backend/db.sqlite3
+
+# frontend
+/frontend/node_modules/
+/frontend/.next/
